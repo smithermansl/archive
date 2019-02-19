@@ -7,8 +7,6 @@
     "test": "jest"
   },
   "dependencies": {
-    "@babel/plugin-proposal-decorators": "^7.3.0",
-    "@nozbe/watermelondb": "^0.10.0",
     "react": "16.6.3",
     "react-native": "0.58.3"
   },
